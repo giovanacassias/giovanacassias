@@ -18,3 +18,11 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
 </div>
+
+<br>
+
+### Find me
+
+<div> 
+<a href="https://www.linkedin.com/in/giovanacassias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
