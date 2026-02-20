@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Typescript, React Native, and PHP
+- 🌱 I’m currently learning PHP and Laravel
 - 📍 I'm studying at The Federal University of Technology - Paraná (UTFPR) - Guarapuava/Brazil
 - 👩🏻‍💻 I'm a creative person who has a strong interest in UI design, screen development, and everything that makes digital experiences visually appealing and functional
 
@@ -15,8 +15,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
 </div>
 
 <br>
